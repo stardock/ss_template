@@ -45,10 +45,10 @@
           <li><a href="tos.php">服务条款</a>
           </li>
           <li>
-          	<a href="code.php">邀请码</a>
+          	<a href="/user">邀请码</a>
           </li>
 		    <li>
-            <div class="m-t-sm"> <a href="auth/login.php" class="btn btn-warning btn-sm m-l">会员登录</a><a href="auth/register.php" class="btn btn-sm btn-success m-l"><strong>用户注册</strong></a>  </div>
+            <div class="m-t-sm"> <a href="/user" class="btn btn-warning btn-sm m-l">会员登录</a><a href="auth/register.php" class="btn btn-sm btn-success m-l"><strong>用户注册</strong></a>  </div>
           </li>
 		   <li>
 		      <br>
@@ -132,8 +132,8 @@
       <div class="container wrapper">
         <div class="m-t-xl m-b">
           马上点击下方开始您的稳定高速上网体验.
-          <a href="auth/login.php" class="btn btn-lg btn-dark b-white bg-empty m-sm">登陆使用</a>
-          <a href="auth/register.php" class="btn btn-lg btn-warning b-white bg-empty m-sm">注册账户</a>
+          <a href="/user" class="btn btn-lg btn-dark b-white bg-empty m-sm">登陆使用</a>
+          <a href="/auth/register" class="btn btn-lg btn-warning b-white bg-empty m-sm">注册账户</a>
         </div>
       </div>
       <i class="fa fa-caret-down fa-4x text-primary m-b-n-lg block"></i>
