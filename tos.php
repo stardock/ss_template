@@ -45,10 +45,10 @@
           <li><a href="tos.php">服务条款</a>
           </li>
           <li>
-          	<a href="code.php">邀请码</a>
+          	<a href="/user">邀请码</a>
           </li>
 		    <li>
-            <div class="m-t-sm"> <a href="auth/login.php" class="btn btn-warning btn-sm m-l">会员登录</a><a href="auth/register.php" class="btn btn-sm btn-success m-l"><strong>用户注册</strong></a>  </div>
+            <div class="m-t-sm"> <a href="/user" class="btn btn-warning btn-sm m-l">会员登录</a><a href="auth/register.php" class="btn btn-sm btn-success m-l"><strong>用户注册</strong></a>  </div>
           </li>
 		   <li>
 		      <br>
