@@ -129,8 +129,8 @@ TOS更新时用户需要遵守最新TOS。</p><br>
       <div class="container wrapper">
         <div class="m-t-xl m-b">
           马上点击下方开始您的稳定高速上网体验.
-          <a href="auth/login.php" class="btn btn-lg btn-dark b-white bg-empty m-sm">登陆使用</a>
-          <a href="auth/register.php" class="btn btn-lg btn-warning b-white bg-empty m-sm">注册账户</a>
+          <a href="/user" class="btn btn-lg btn-dark b-white bg-empty m-sm">登陆使用</a>
+          <a href="/auth/register" class="btn btn-lg btn-warning b-white bg-empty m-sm">注册账户</a>
         </div>
       </div>
       <i class="fa fa-caret-down fa-4x text-primary m-b-n-lg block"></i>
